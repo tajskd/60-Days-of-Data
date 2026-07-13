@@ -16,5 +16,4 @@
 - Extreme values are not errors. Keep them, but flag them.
 - Always create a Summary sheet for quick reference.
 
-**Next Steps:**
-- Tomorrow: PivotTables (finally!)
+
