@@ -1,0 +1,40 @@
+# Day 9 – Built My First Executive Dashboard in Excel
+
+## What I Built
+I created a professional, interactive dashboard using Excel. It shows the key metrics and charts for the Superstore dataset.
+
+## Dashboard Components
+
+### KPI Cards (Top Summary)
+- **Total Sales:** $2,261,536.78
+- **Total Orders:** 9,800
+- **Best Region:** West ($710,219.68)
+- **Best Category:** Technology ($827,455.87)
+
+### Charts Included
+1. **Sales by Category** (Bar Chart) – shows that Technology is the highest.
+2. **Sales by Region** (Pie Chart) – shows West is the strongest.
+3. **Sales by Sub-Category (Top 5)** (Bar Chart) – shows Phones and Chairs lead.
+4. **Sales Over Time** (Line Chart) – shows monthly trends.
+
+## Key Insights
+- Technology is the cash cow category.
+- The West region outperforms all others.
+- Phones and Chairs are the top-selling sub-categories.
+- Fasteners and Envelopes are the lowest performers.
+
+## What I Learned
+- How to create KPI cards using SUM and COUNTA formulas.
+- How to build PivotTables and PivotCharts.
+- How to use slicers for filtering.
+- How to design a clean, executive-friendly dashboard.
+
+## Tools Used
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Slicers
+- Basic Excel formulas (SUM, COUNTA)
+
+## Next Steps
+- Day 10 – Python Basics (Pandas, Matplotlib)
