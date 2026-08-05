@@ -16,5 +16,4 @@ Welcome to my 60 Days of Data challenge tracking repository! This index keeps al
 | **Day 8** | Summary | [View Note](./Day8_Summary.md) |
 | **Day 9** | Summary | [View Note](./Day9_Summary.md) |
 | **Day 10** | Python Basics | [View Note](./Day10_Python_Basics.md) |
----
-
+| **Day 11** | Data Visualization | [View Note](./Day11_Visualization.md) |
