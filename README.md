@@ -1,8 +1,3 @@
-Yes, you are in the exact right place! The file is already named `README.md` (case-insensitive in Markdown, though standard practice is uppercase `README.md`).
-
-Copy and paste the code block below directly into the text editor on your screen, then click the green **Commit changes...** button at the top right.
-
-```markdown
 # 60 Days of Data
 
 Welcome to my 60 Days of Data challenge tracking repository! This index keeps all daily entries organized in chronological order.
@@ -23,6 +18,3 @@ Welcome to my 60 Days of Data challenge tracking repository! This index keeps al
 | **Day 10** | Python Basics | [View Note](./Day10_Python_Basics.md) |
 ---
 
-*Note: For Day 11 onward, filenames will use two-digit padding (e.g., `Day11_...`) to maintain standard GitHub file tree ordering.*
-
-```
