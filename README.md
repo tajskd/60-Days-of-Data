@@ -18,3 +18,4 @@ Welcome to my 60 Days of Data challenge tracking repository! This index keeps al
 | **Day 10** | Python Basics | [View Note](./Day10_Python_Basics.md) |
 | **Day 11** | Data Visualization | [View Note](./Day11_Visualization.md) |
 | **Day 12** | Merging, Joining, and Handling Missing Data | [View Note](./Day12_Advanced_Python.md) |
+| **Day 13** | Advanced SQL: CTEs, Window Functions, and the Column Mapping Lesson | [View Note](./Day13_Advanced_SQL.md) |
