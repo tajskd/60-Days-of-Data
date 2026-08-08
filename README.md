@@ -1,21 +1,42 @@
-# 60 Days of Data
+# 60 Days of Data Analytics – Portfolio
 
-Welcome to my 60 Days of Data challenge tracking repository! This index keeps all daily entries organized in chronological order.
+## About This Repository
+This repository documents my 60-day journey from absolute beginner to job-ready Data Analyst. It contains projects in Excel, SQL, and Python, showcasing my ability to clean, analyze, and visualize data.
 
-## Daily Log
+## Projects
 
-| Day | Title | Link |
-| :--- | :--- | :--- |
-| **Day 1** | Summary | [View Note](./Day%201%20Summary) |
-| **Day 2** | Summary | [View Note](./Day2_Summary.md) |
-| **Day 3** | Summary | [View Note](./Day3_Summary.md) |
-| **Day 4** | Summary | [View Note](./Day4_Summary.md) |
-| **Day 5** | Summary | [View Note](./Day5_Summary.md) |
-| **Day 6** | Summary | [View Note](./Day6_Summary.md) |
-| **Day 7** | Summary | [View Note](./Day7_Summary.md) |
-| **Day 8** | Summary | [View Note](./Day8_Summary.md) |
-| **Day 9** | Summary | [View Note](./Day9_Summary.md) |
-| **Day 10** | Python Basics | [View Note](./Day10_Python_Basics.md) |
-| **Day 11** | Data Visualization | [View Note](./Day11_Visualization.md) |
-| **Day 12** | Merging, Joining, and Handling Missing Data | [View Note](./Day12_Advanced_Python.md) |
-| **Day 13** | Advanced SQL: CTEs, Window Functions, and the Column Mapping Lesson | [View Note](./Day13_Advanced_SQL.md) |
+### 1. Superstore Sales Dashboard (Excel)
+- **Description:** Interactive dashboard showing sales by category, region, and time.
+- **Key Skills:** PivotTables, Power Query, Data Visualization.
+- **File:** `Superstore_Dashboard_FINAL.xlsx`
+
+### 2. Superstore SQL Analysis
+- **Description:** Complex SQL queries using CTEs and Window Functions.
+- **Key Skills:** SQLite, Joins, Subqueries, Aggregations.
+- **File:** `Day13_Advanced_SQL.md`
+
+### 3. Superstore Python Analysis
+- **Description:** Python scripts for data cleaning, merging, and visualization.
+- **Key Skills:** Pandas, Matplotlib, Seaborn, Data Merging.
+- **File:** `Day10_Python_Basics.ipynb`, `Day11_Visualization.ipynb`
+
+## Key Insights
+- **Top Customer:** Sean Miller ($24,257.63)
+- **Top Category:** Technology ($827,455.87)
+- **Top Region:** West ($710,219.68)
+- **Top Sub-Category:** Phones ($327,782.45)
+
+## Tools Used
+- **Excel:** PivotTables, Power Query, Dashboards
+- **SQL:** SQLite, CTEs, Window Functions
+- **Python:** Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+## Next Steps
+- Continue building portfolio projects
+- Apply for Junior Data Analyst roles
+- Keep learning (Advanced Python, Machine Learning basics)
+
+## Contact
+- **GitHub:** []
+- **LinkedIn:** [update soon]
+- **Email:** [ridwanullahtajudeen@gmail.com]
