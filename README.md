@@ -37,6 +37,6 @@ This repository documents my 60-day journey from absolute beginner to job-ready 
 - Keep learning (Advanced Python, Machine Learning basics)
 
 ## Contact
-- **GitHub:** []
+- **GitHub:** [https://github.com/tajskd/60-Days-of-Data]
 - **LinkedIn:** [update soon]
 - **Email:** [ridwanullahtajudeen@gmail.com]
