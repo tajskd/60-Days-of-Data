@@ -20,3 +20,17 @@ def region_summary(region_name):
     print("\nTop 3 Products:")
     for product, sales in top_products.items():
         print(f"  - {product}: ${sales:,.2f}")
+
+
+
+**Why This Matters**
+Efficiency: I can now generate a detailed report for any region with one line of code.
+Consistency: Every report follows the exact same format.
+Scalability: If I want to analyze a new region, I don't need to rewrite anything—I just call the function.
+
+**Key Insight**
+I discovered that:
+The West region has the highest total sales.
+The South region has the highest average order value, suggesting customers there are more likely to buy premium items.
+The West also has the most customers, making it the largest market.
+
