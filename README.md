@@ -36,6 +36,11 @@ This repository documents my 60-day journey from absolute beginner to job-ready 
 - Apply for Junior Data Analyst roles
 - Keep learning (Advanced Python, Machine Learning basics)
 
+  ## Project: Superstore Analytics Toolkit
+- Built a complete Python pipeline that generates a full business report with one command.
+- Tools: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook.
+- **Key Insight:** The South region has a higher average order value than the West ($243 vs. $226), but underperforms due to 96% fewer orders. The solution is customer acquisition, not higher spending.
+
 ## Contact
 - **GitHub:** [https://github.com/tajskd/60-Days-of-Data]
 - **LinkedIn:** [www.linkedin.com/in/ridwanullah-tajudeen-345ba5377]
