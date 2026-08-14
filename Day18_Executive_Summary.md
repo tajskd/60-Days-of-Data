@@ -41,3 +41,5 @@ RECOMMENDATION:
 3. Leverage the success of premium products (like copiers) in B2B campaigns.
 ==================================================
 
+**Key Insight**
+This function turns raw data into a clear, actionable summary that any executive can understand in 30 seconds.
