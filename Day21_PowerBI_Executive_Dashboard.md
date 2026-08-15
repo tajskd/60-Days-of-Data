@@ -15,7 +15,8 @@ I created an Executive Summary page in Power BI that displays:
 4. **Layout:** Arranged visuals to create a clean, executive-friendly summary page.
 
 ## Dashboard Preview
-![Executive Summary Dashboard] (Dashboard_Screenshot.png )
+![Executive Summary Dashboard] ( <img width="813" height="500" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/60bbf7d7-f542-47a4-b123-e7838d1397c5" />
+)
 
 ## Business Insight
 The Canon imageCLASS 2200 Advanced Copier is the clear top performer, generating more than double the sales of the second-ranked product (Fellowes PB500). This confirms our earlier Python analysis and highlights the importance of B2B premium products.
