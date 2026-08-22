@@ -28,6 +28,7 @@ Row ID: 0.00 (no meaningful relationship)
 The heatmap confirms that most numeric variables have a weak to moderate correlation with Sales, with no single factor dominating.
 
 <img src="https://github.com/user-attachments/assets/7980faa6-7897-4760-8212-b4884a8583a3" width="100%" />
+
 Business Insight
 1. Strongest Correlation
 The variable most strongly correlated with Sales is Quantity with a correlation of 0.20.
