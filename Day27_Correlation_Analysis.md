@@ -27,7 +27,8 @@ Row ID: 0.00 (no meaningful relationship)
 **Visual Insight**
 The heatmap confirms that most numeric variables have a weak to moderate correlation with Sales, with no single factor dominating.
 
-<img src="https://github.com/user-attachments/assets/7980faa6-7897-4760-8212-b4884a8583a3" width="100%" />
+![Correlation Visual](<img width="697" height="449" alt="image" src="https://github.com/user-attachments/assets/3a7288dc-a5df-4988-9b38-86934cc3a859" />
+)
 
 Business Insight
 1. Strongest Correlation
